@@ -1,0 +1,33 @@
+# TODOlist -- 前往頁面底部查看Readme
+
+TODO List:
+
+|**Create**	|**Start**	|**Deadline**	|**Brief**							|**Assignee**	|
+|-----------|-----------|---------------|-----------------------------------|---------------|
+|130928		|130929		|130930			|購買手機卡							|尚博 陳天友	|
+|130928		|130929		|131007			|飛信平臺，微信平臺架設				|陳天友			|
+|130928		|130929		|131007			|人人上公佈飛信微信平臺，求粉		|楊瑒			|
+|130928		|130930		|131007			|推廣下次講課的活動					|陳天友			|
+|130928		|130930		|131007			|開源資金￥30/p						|楊瑒			|
+
+
+Finished List:
+
+|**Create**	|**Start**	|**Deadline**	|**Brief**							|**Assignee**	|
+|-----------|-----------|---------------|-----------------------------------|---------------|
+|130928		|130928		|130928			|建立郵箱，Github					|楊瑒			|
+
+--------------------------------------------------
+**Readme**
+
+1. TODOlist應該使用[Markdown](#mkdsyntax)語法編寫。
+2. 每次Assignee在完成工作之後應該來這裏把相應的TODO List工作行，移動到Finished List工作行中。
+
+<a id=mkdsyntax></a>
+**Markdown Syntax Documentation:**
+
+* [Markdown syntax doc1](http://wowubuntu.com/markdown/ "Markdown Syntax Documentation")
+
+* [Markdown syntax doc2]("https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" "Markdown Syntax Documentation")
+
+
