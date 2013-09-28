@@ -20,7 +20,7 @@
 4. 每週系列課程：
 > * C++ Qt Series @楊瑒
 > * Python Basics @尚博
-> * Python Jungle Framework @楊凡
+> * Python Django Framework @楊凡
 
 5. 每次講課拍攝視頻 @徐力
 
