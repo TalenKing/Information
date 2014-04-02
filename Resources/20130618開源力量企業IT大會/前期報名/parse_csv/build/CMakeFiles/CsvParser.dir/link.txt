@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3 -msse -msse2    CMakeFiles/CsvParser.dir/src/parse.o  -o CsvParser -rdynamic 
