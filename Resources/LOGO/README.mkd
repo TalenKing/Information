@@ -1,0 +1,5 @@
+# LOGO -- 開源社區LOGO Readme
+
+* `Logo-for-activities.ai` 文件是「20140404春季系列講座」的時候做的。
+* `Logo-for-website.ai` 文件是「[開源社區網站](http://www.shuosc.org/)」的時候做的。
+
